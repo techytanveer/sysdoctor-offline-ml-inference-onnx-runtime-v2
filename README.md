@@ -16,7 +16,6 @@ This version uses an **ONNX machine‑learning model** to detect system health p
 *  **JSON‑based configuration** (no recompilation needed)
 *  **Offline inference** using ONNX Runtime
 *  No telemetry, no cloud, no runtime training
-*  Modular design (ready for future LLM explanations)
 
 ---
 
