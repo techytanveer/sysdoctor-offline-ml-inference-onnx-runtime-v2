@@ -24,9 +24,9 @@ This version uses an **ONNX machine‑learning model** to detect system health p
 ```
 System Metrics
      ↓
-Rule Engine (Option A)
+Rule Engine 
      ↓
-ONNX ML Inference (Option B)
+ONNX ML Inference 
      ↓
 Diagnosis Aggregation
      ↓
@@ -37,8 +37,6 @@ Human‑Readable Output
 
 * **Rules are authoritative** (safety & determinism)
 * **ML is advisory** (pattern recognition)
-* **LLMs (future)** explain results, never decide
-
 ---
 
 ##  Project Structure
