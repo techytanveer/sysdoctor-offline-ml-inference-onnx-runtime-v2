@@ -205,24 +205,3 @@ Safe for:
 * [v3] LLM explanations (llama.cpp)
 
 ---
-
-##  License
-
-MIT / Apache‑2.0 (choose as appropriate)
-
----
-
-## 👤 Author
-
-Tanveer Ahmed
-Linux C++ | Systems Engineering | Hybrid AI
-
----
-
-##  Final Note
-
-SysDoctor demonstrates **how AI should be built in system software**:
-
-> Rules first. ML assists. Humans stay in control.
-
-This is intentional, safe, and production‑ready.
